@@ -1,0 +1,3 @@
+--Tried to create a Power Management Telemetry using Java Programming
+--Here it is Dynamic and will take devices details and comapre it.
+--It also has other options of showing low battery alerts and Telemetry datas.
